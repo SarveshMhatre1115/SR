@@ -72,7 +72,19 @@ class CreateDb
 }
 
 
-
+// INSERT INTO Producttb (product_name, product_price, product_image)
+//         VALUES ('Call of duty',1799,'./images/screenshots1.jpg'),
+// 			('Minicraft',179,'./images/new5.jpg'),
+// 			('Fortnit',499,'./images/new7.jpg'),
+//             ('Anpar',147,'./images/Anpar.jpg'),
+//              ('Aragami',459,'./images/aragami.jpg'),
+//             ('Mount',678,'./images/mount.jpg'),
+//  			('Darkest',528,'./images/darkest.jpg'),
+//  			('Hotwheels',222,'./images/hotwheels.jpg'),
+// 			 ('Citysky',684,'./images/cities-sky.jpg'),
+// 			 ('Jojo',258,'./images/jojo.jpg'),
+// 			 ('Satt',858,'./images/satt.jpg'),
+// 			 ('SSS',278,'./images/sss.jpg')
 
 
 
